@@ -1,0 +1,11 @@
+F:\Users_Profiles\Leonid\Мои документы\Repository\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.csprojResolveAssemblyReference.cache
+F:\Users_Profiles\Leonid\Мои документы\Repository\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.csproj.CoreCompileInputs.cache
+F:\Users_Profiles\Leonid\Мои документы\Repository\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.AssemblyInfoInputs.cache
+F:\Users_Profiles\Leonid\Мои документы\Repository\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.AssemblyInfo.cs
+F:\Users_Profiles\Leonid\Мои документы\Repository\Snake\Snake\bin\Debug\netcoreapp2.0\Snake.deps.json
+F:\Users_Profiles\Leonid\Мои документы\Repository\Snake\Snake\bin\Debug\netcoreapp2.0\Snake.runtimeconfig.json
+F:\Users_Profiles\Leonid\Мои документы\Repository\Snake\Snake\bin\Debug\netcoreapp2.0\Snake.runtimeconfig.dev.json
+F:\Users_Profiles\Leonid\Мои документы\Repository\Snake\Snake\bin\Debug\netcoreapp2.0\Snake.dll
+F:\Users_Profiles\Leonid\Мои документы\Repository\Snake\Snake\bin\Debug\netcoreapp2.0\Snake.pdb
+F:\Users_Profiles\Leonid\Мои документы\Repository\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.dll
+F:\Users_Profiles\Leonid\Мои документы\Repository\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.pdb
