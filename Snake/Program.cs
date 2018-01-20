@@ -8,10 +8,23 @@ namespace Snake
         static void Main(string[] args)
         {
 
-            HorizontalLine hLine = new HorizontalLine(5, 10, 8, '+');
-            hLine.Draw();
-            VerticalLine vLine = new VerticalLine(11, 8, 18, '+');
-            vLine.Draw();
+            Console.SetBufferSize(80, 30);
+            // отрисовка рамочки
+            HorizontalLine upLine = new HorizontalLine(0, 78, 0, '+');
+            HorizontalLine downLine = new HorizontalLine(0, 78, 24, '+');
+            VerticalLine leftLine = new VerticalLine(0, 24, 0, '+');
+            VerticalLine rightLine = new VerticalLine(0, 24, 78, '+');
+            upLine.Draw();
+            downLine.Draw();
+            leftLine.Draw();
+            rightLine.Draw();
+
+
+
+            // отрисовка точек
+            Point p = new Point(4, 5, '*');
+            p.Draw();
+
 
             Console.ReadLine();
         }
